@@ -28,7 +28,7 @@ class ViewController: UIViewController {
 
     @IBAction func effortToInput(_ sender: Any) {
         
-        
+//      ss
         
     }
 }
