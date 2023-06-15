@@ -19,6 +19,8 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var guessInput: UIStackView!
     var guessWords = ["AGAINST","AIRLINE","AIRPORT","ALCOHOL","ALLEGED","ALREADY","AMATURE","BALCONY","BINDING","BLANKET","BROTHER","CAPTAIN","CAPABLE","CHICKEN","CORRECT","DAYTIME","DECLINE","DELIVER","EDITION","ENHANCE","ETHICAL","FARTHER","FITNESS","FINANCE","FISHING","FORMULA","GENUIEN","GIGABIT","GREATER","HEARING","HELPFUL","HOLIDAY","HIGHWAY","IMPROVE","INVOICE","JOURNEY","JUSTICE","JUSTIFY","JOINTLY","KILLING","KNOWING","LARGELY","LASTING","KITCHEN","LANDING","LASTING","LEADING","LEANING"]
+    
+    //some more to be added
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
